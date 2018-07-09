@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sample</string>
+
+    <!-- Strings related to login screen -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="login_hint_email">Введите свой E-Mail</string>
+    <string name="login_hint_password">Ваш пароль</string>
+    <string name="login_text_button">Войти</string>
+    <string name="email_empty">Пустой e-mail</string>
+    <string name="email_invalid">Некорректный e-mail</string>
+    <string name="password_empty">Пустой пароль</string>
+
+    <!-- Strings related to dialogs -->
+    <string name="dialog_error_ok">OK</string>
+    <string name="dialog_error_auth_message">Неверный логин или пароль</string>
+    <string name="dialog_logout_message">Вы уверены, что хотите выйти из учетной записи?</string>
+    <string name="dialog_logout_negative_button">Нет</string>
+    <string name="dialog_logout_positive_button">Да</string>
+    <string name="dialog_exit_app_message">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="progress_dialog_message">Please wait...</string>
+
+    <!-- Strings related to fonts -->
+    <string name="roboto_regular">sans-serif</string>
+    <string name="roboto_medium">sans-serif-medium</string>
+
+
+</resources>

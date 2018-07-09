@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Font-->
+    <dimen name="font_normal_16">16sp</dimen>
+    <dimen name="font_small_12">12sp</dimen>
+    <dimen name="font_large_20">20sp</dimen>
+    <!--Padding-->
+    <dimen name="space_normal_16">16dp</dimen>
+    <dimen name="space_small_8">8dp</dimen>
+    <dimen name="space_large_33">33dp</dimen>
+    <dimen name="space_large_54">54dp</dimen>
+    <dimen name="space_normal_24">24dp</dimen>
+    <dimen name="space_small_6">6dp</dimen>
+    <dimen name="space_large_48">48dp</dimen>
+    <dimen name="space_large_52">52dp</dimen>
+    <!--Other-->
+    <dimen name="login.padding.logo_bottom">101dp</dimen>
+    <dimen name="login.padding.logo_top">72dp</dimen>
+    <dimen name="login.button.width">206dp</dimen>
+    <dimen name="login.input.height">56dp</dimen>
+    <dimen name="login.button.height">48dp</dimen>
+    <dimen name="login.padding.bottom">96dp</dimen>
+    <dimen name="main.logo.width">132dp</dimen>
+    <dimen name="main.logo.height">59dp</dimen>
+    <dimen name="main.profile.size">96dp</dimen>
+    <dimen name="main.profile.paddin_bottom">21dp</dimen>
+</resources>
